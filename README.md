@@ -1,2 +1,2 @@
 # artineer_spring
-artineer_spring_lecture_1
+# 09.16 spring_lecture_1
